@@ -1,2 +1,21 @@
 anyone
 baba booey baba booey baba booey
+some stuff
+➜  learngit git:(master) ✗ cat test.txt
+anyone
+baba booey baba booey baba booey
+➜  learngit git:(master) ✗ echo some stuff >> test.txt
+➜  learngit git:(master) ✗ cat test.txt
+anyone
+baba booey baba booey baba booey
+some stuff
+➜  learngit git:(master) ✗ cat new.txt
+➜  learngit git:(master) ✗ cat test.txt
+anyone
+baba booey baba booey baba booey
+➜  learngit git:(master) ✗ echo some stuff >> test.txt
+➜  learngit git:(master) ✗ cat test.txt
+anyone
+baba booey baba booey baba booey
+some stuff
+➜  learngit git:(master) ✗ cat new.txt
